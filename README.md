@@ -352,6 +352,7 @@
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 - [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon]
 - [Wineskin](https://github.com/Gcenx/WineskinServer) - Run Windows applications and games on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Gcenx/WineskinServer) ![Freeware][Freeware Icon]
+- [Yado](https://yado.house/) - Manage an iPhone from the Mac, clear duplicate photos, large videos and unused apps, arrange the Home Screen and keep backups on the Mac.
 
 ### Video
 
